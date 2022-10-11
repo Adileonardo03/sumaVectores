@@ -241,7 +241,7 @@ public class ProgramaSumaDeVectores {
      SUMAFINAL=COFCUADRADO+CAFCUADRADO;
      HFINAL=Math.sqrt(SUMAFINAL);
      
-     JOptionPane.showMessageDialog(null, "EL VECTOR RESULTANTE ES: \n"+HFINAL); // una ventana emergente la cual saldra con una con el resultado final de la operacion
+     JOptionPane.showMessageDialog(null, "EL VECTOR RESULTANTE ES: \n"+HFINAL); // una ventana emergente la cual saldra con una con el resultado final, es decir el vector resultante, de la operacion, simplemente con la palabra ya guardada
     }
     
 }
