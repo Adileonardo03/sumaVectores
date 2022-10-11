@@ -16,3 +16,13 @@ tos previos que teníamos de las tecnologías y por la versatilidad de su ejecuc
 <p align="center">
   <img width=150 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmpng.subpng.com%2F20181122%2Fkrs%2Fkisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg&f=1&nofb=1&ipt=33db555a013532c4fc2ec427d107f05c17e65b617aa530264dc61b029d811d14&ipo=images" />
 </p>
+
+<div size=5>
+  <b>Autores:</b><br>
+  Orozco Orozco, Iker<br>
+  Pancardo Ortega Germán Heberto<br>
+  Vargas Guerrero, Adi Leonardo<br><br><br>Electricidad y Magnetismo, ICO, FES Aragón, UNAM
+<p align="right">
+<img width=75 src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F2.bp.blogspot.com%2F-GGclxqKBu30%2FUFEzPUlU3zI%2FAAAAAAAAACo%2FBGIGWthnt-Y%2Fs1600%2Ffes%2Baragon.jpg&f=1&nofb=1&ipt=419e4999d910b20e5a08172724d894dd01125e78f11f0fec6706c2dafbc6e6d3&ipo=images">
+</p>
+</div>
